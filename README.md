@@ -20,9 +20,9 @@
 - 2022/09-ongoing Research Postgraduate @ HKUST Physics (Quantum Optics Metasurface) 
 
 ### Minds
-- Create open, readable, and maintainable code.
+- Create open, readable, and scalable code.
 - Automate as many as possible.
-- Stability over features.
+- Short functional code >> Long OOP code. 
 
 ### Skills/Interests
 - Web Development:
@@ -31,21 +31,21 @@
   - Tools: ESLint, Prettier
   - Others: Phaser (JS Game Engine)
 - Scientific computing:
-  - Python3: Data processing with Numpy, Pandas, Matplotlib
-  - Wolfram Mathematica: FP for numerical simulation
+  - **Python3**: Data processing with Numpy, Pandas, Matplotlib
+  - **Wolfram Mathematica**: FP for numerical simulation
   - Matlab
   - COMSOL (learning)
 - Linux Programming:
   - Bash scripting
   - Network and security: Firewall, SSH, vLAN
-  - Systemd tools: systemctl, journalctl, services
+  - System management: systemd tools (systemctl, journalctl)
   - Virtualization: wine, QEMU/KVM
 - Cloud computing:
   - AWS: EC2, Lambda, EventBridge, DynamoDB, S3
   - Deployment: Heroku, Github pages
   - Database: MongoDB
 - Typography:
-  - LaTeX
+  - **LaTeX**, TikZ
 - Others:
   - Other languages: C, C++, Java
   - Currently learning:
