@@ -13,7 +13,7 @@
   + Asian Physics Olympiad 2018 silver medalist
   + Indonesian Physics Olympiad 2017 (High school)
 - 🤓 GNU Linux & FOSS enthausiast
-- 🗾 Likes ![music](https://open.spotify.com/user/22nnxohrwov3fwk7nq74c2day), cooking, watching anime and kdrama
+- 🗾 Likes [music](https://open.spotify.com/user/22nnxohrwov3fwk7nq74c2day), cooking, watching anime and kdrama
 
 ### Job History
 - 2021/06-2021/09 Fullstack Web Developer Intern @ Quokka HR (Vue.js, Tailwind, Flask, PostgresQL)
